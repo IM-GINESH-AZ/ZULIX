@@ -20,7 +20,7 @@ apt upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/IM_GINESH_AZ/ZULIX.git
+git clone https://github.com/IM-GINESH-AZ/ZULIX.git
 ```
 ```
 cd CODEX/
